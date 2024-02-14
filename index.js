@@ -1,1 +1,2 @@
-console.log("Masfa")
+console.log("Masfa");
+console.log("Masfammmmm");
